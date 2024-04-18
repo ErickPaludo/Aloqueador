@@ -1,0 +1,14 @@
+C:\Users\Erick\Documents\projects\Paletes\bin\Debug\net8.0\Paletes.exe
+C:\Users\Erick\Documents\projects\Paletes\bin\Debug\net8.0\Paletes.deps.json
+C:\Users\Erick\Documents\projects\Paletes\bin\Debug\net8.0\Paletes.runtimeconfig.json
+C:\Users\Erick\Documents\projects\Paletes\bin\Debug\net8.0\Paletes.dll
+C:\Users\Erick\Documents\projects\Paletes\bin\Debug\net8.0\Paletes.pdb
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.AssemblyInfo.cs
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.dll
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\refint\Paletes.dll
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.pdb
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\Paletes.genruntimeconfig.cache
+C:\Users\Erick\Documents\projects\Paletes\obj\Debug\net8.0\ref\Paletes.dll

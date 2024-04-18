@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paletes", "Paletes.csproj", "{22C6E677-68B4-4307-8803-548DC5873583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C6E677-68B4-4307-8803-548DC5873583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C6E677-68B4-4307-8803-548DC5873583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C6E677-68B4-4307-8803-548DC5873583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C6E677-68B4-4307-8803-548DC5873583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7B98B0-C0DC-4BB8-9CCD-658BD352427A}
+	EndGlobalSection
+EndGlobal
